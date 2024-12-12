@@ -5,7 +5,7 @@
 2022级吉林大学软件学院操作系统课程设计
 
 ## 主界面截图
-<img src="[图片URL](https://pic.cirno.fun/sssn-blog-pics/image-20241212162749235.png)" alt="描述" style="max-width:100%; height:auto;">
+<img src="https://pic.cirno.fun/sssn-blog-pics/image-20241212162749235.png" alt="描述" style="max-width:100%; height:auto;">
 
 ## 输出结果截图
 
