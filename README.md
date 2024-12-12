@@ -6,7 +6,7 @@
 
 ## 主界面截图
 
-![image-20241212160820111](https://pic.cirno.fun/sssn-blog-pics/image-20241212160820111.png)
+![image-20241212162749235](https://pic.cirno.fun/sssn-blog-pics/image-20241212162749235.png)
 
 ## 输出结果截图
 
